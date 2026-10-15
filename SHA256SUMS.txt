@@ -1,0 +1,2 @@
+d797c03c62444efeac80801a674aa121953984f0896dc1cab6474da15a89b4bf  birefnet-swin-tiny-768.onnx
+95bb6ff512597b2691eae3633bba57f33bfcaa87db9fa0bbe41d2c994ea1b249  birefnet-swin-tiny-512.onnx
